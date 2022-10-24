@@ -1,0 +1,72 @@
+@model caserito_finder.Models.Formulario
+@{
+    ViewData["Title"] = "Contacto";
+}
+
+@*Index de contacto*@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/site.css">
+    <title>Caserito Finder</title>
+</head>
+
+<body>
+    <header>
+        <div class="links">
+            <div class="logo-container">
+                <img class="logo" src="/img/logo-no-txt.png" alt="Caserito Finder logo">
+                <input class="title-bttn" type="button" value="CASERITO FINDER">
+            </div>
+            <nav>
+                <ul>
+                    <a asp-action="Home">INICIO</a>
+                    <a asp-action="Acerca">ACERCA</a>
+                    <a asp-action="Novedades">NOVEDADES</a>
+                    <a asp-action="Mapa">MAPA</a>
+                    <a asp-action="Index">CONTACTO</a>
+                    <a asp-action="Tienda">TIENDATOP</a>
+                </ul>
+            </nav>
+            <input class="sesion-bttn" type="button" value="INICIAR SESIÓN">
+        </div>
+    </header>
+
+    <div id="contacto">
+        <div class="text-cont">
+            <h3>CONTACTO</h3>
+        </div>
+        <form asp-controller="Contacto" asp-action="FormSend" method="post">
+            <label>Nombre de Negocio</label><br>
+            <input type="text" asp-for="negoNom" placeholder="Nombre" required><br>
+            <span asp-validation-for="negoNom" class="text-danger"></span>
+            <label>Dueño de Negocio</label><br>
+            <input type="text" asp-for="negoDue" placeholder="Dueño" required><br>
+            <span asp-validation-for="negoDue" class="text-danger"></span>
+            <label>Direccion</label><br>
+            <input type="text" asp-for="negoDir" placeholder="Direccion" required><br>
+            <span asp-validation-for="negoDir" class="text-danger"></span>
+            <label>E-mail</label><br>
+            <input type="email" asp-for="negoEmail" placeholder="Correo Electronico" required><br>
+            <span asp-validation-for="negoEmail" class="text-danger"></span>
+            <label>Telefono</label><br>
+            <input type="number" asp-for="negoTelf" placeholder="Telefono" required><br>
+            <span asp-validation-for="negoTelf" class="text-danger"></span>
+            <label>Horario de Atencion</label><br>
+            <label class="tiempo">Desde:</label><br>
+            <input type="time" asp-for="negoHIni" required><br>
+            <span asp-validation-for="negoHIni" class="text-danger"></span>
+            <label class="tiempo">Hasta:</label><br>
+            <input type="time" asp-for="negoHEnd" required><br>
+            <span asp-validation-for="negoHEnd" class="text-danger"></span>
+            <input type="submit" name="b_sub" value="Enviar" class="submit">
+        </form>
+    </div>
+</body>
+
+</html>
