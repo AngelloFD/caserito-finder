@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RxfNITgf0pKw13Kci2DPokG4+SPRMfSr4+3wTCig4N3U85czvR3gfiy2AYETge7030ZHINO3JJbES5BMCt+R+Q==",
+  "dgSpecHash": "vIzM3M2iVOrte3RJcYeBi4o2GtFRNjSgVe/+9fgIUm4WM0KuRU3A9aKZMWYgOSQycUbyicuykYUrhO7InGN/Ow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Familia\\source\\repos\\caserito_finder\\caserito_finder.csproj",
+  "projectFilePath": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\caserito_finder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Familia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Familia\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",

@@ -829,11 +829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Familia\\source\\repos\\caserito_finder\\caserito_finder.csproj",
+      "projectUniqueName": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\caserito_finder.csproj",
       "projectName": "caserito_finder",
-      "projectPath": "C:\\Users\\Familia\\source\\repos\\caserito_finder\\caserito_finder.csproj",
+      "projectPath": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\caserito_finder.csproj",
       "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Familia\\source\\repos\\caserito_finder\\obj\\",
+      "outputPath": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
