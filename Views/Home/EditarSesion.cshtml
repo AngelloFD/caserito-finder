@@ -1,0 +1,36 @@
+﻿@model caserito_finder.Models.Form;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    <body>
+        <h1>Editando Datos</h1>
+        <form asp-controller="Home" asp-action="CreateCaserito" method="post">
+            <label>Nombre de Negocio</label><br>
+            <input type="text" asp-for="NombreNegocio" value=@ViewData["nomNego"] placeholder="Nombre"><br>
+            <span asp-validation-for="NombreNegocio" style="color:red; font-size:10px"></span><br>
+            <label>Dueño de Negocio</label><br>
+            <input type="text" asp-for="DueñoNegocio" value=@ViewData["dueNego"] placeholder="Dueño"><br>
+            <span asp-validation-for="DueñoNegocio" style="color:red; font-size:10px"></span><br>
+            <label>Direccion</label><br>
+            <input type="text" asp-for="Direccion" value=@ViewData["direNego"] placeholder="Direccion"><br>
+            <span asp-validation-for="Direccion" style="color:red; font-size:10px"></span><br>
+            <label>E-mail</label><br>
+            <input type="email" asp-for="Email" value=@ViewData["email"] placeholder="Correo Electronico"><br>
+            <span asp-validation-for="Email" style="color:red; font-size:10px"></span><br>
+            <label>Telefono</label><br>
+            <input type="number" asp-for="Telefono" value=@ViewData["telf"] placeholder="Telefono"><br>
+            <span asp-validation-for="Telefono" style="color:red; font-size:10px"></span><br>
+            <label>Horario de Atencion</label><br>
+            <label class="tiempo">Desde:</label><br>
+            <input type="number" asp-for="Desde" value=@ViewData["desde"]><br>
+            <span asp-validation-for="Desde" style="color:red; font-size:10px"></span><br>
+            <label class="tiempo">Hasta:</label><br>
+            <input type="number" asp-for="Hasta" value=@ViewData["hasta"]><br>
+            <span asp-validation-for="Hasta" style="color:red; font-size:10px"></span><br>
+            <input type="submit" value="Enviar" class="submit">
+        </form>
+    </body>
+</html>

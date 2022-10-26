@@ -1,3 +1,4 @@
+@model caserito_finder.Models.Form;
 @{
     ViewData["Title"] = "Caserito Finder";
 }
@@ -91,22 +92,29 @@
         <div class="text-cont">
         <h3>CONTACTO</h3>
         </div>
-        <form>
+        <form asp-controller="Home" asp-action="CreateCaserito" method="post">
             <label>Nombre de Negocio</label><br>
-            <input type="text" placeholder="Nombre"><br>
+            <input type="text" asp-for="NombreNegocio" placeholder="Nombre"><br>
+            <span asp-validation-for="NombreNegocio" style="color:red; font-size:10px"></span><br>
             <label>Dueño de Negocio</label><br>
-            <input type="text" placeholder="Dueño"><br>
+            <input type="text" asp-for="DueñoNegocio" placeholder="Dueño"><br>
+            <span asp-validation-for="DueñoNegocio" style="color:red; font-size:10px"></span><br>
             <label>Direccion</label><br>
-            <input type="text" placeholder="Direccion"><br>
+            <input type="text" asp-for="Direccion" placeholder="Direccion"><br>
+            <span asp-validation-for="Direccion" style="color:red; font-size:10px"></span><br>
             <label>E-mail</label><br>
-            <input type="email" placeholder="Correo Electronico"><br>
+            <input type="email" asp-for="Email" placeholder="Correo Electronico"><br>
+            <span asp-validation-for="Email" style="color:red; font-size:10px"></span><br>
             <label>Telefono</label><br>
-            <input type="number" placeholder="Telefono"><br>
+            <input type="number" asp-for="Telefono" placeholder="Telefono"><br>
+            <span asp-validation-for="Telefono" style="color:red; font-size:10px"></span><br>
             <label>Horario de Atencion</label><br>
             <label class="tiempo">Desde:</label><br>
-            <input type="time"><br>
+            <input type="number" asp-for="Desde"><br>
+            <span asp-validation-for="Desde" style="color:red; font-size:10px"></span><br>
             <label class="tiempo">Hasta:</label><br>
-            <input type="time"><br>
+            <input type="number" asp-for="Hasta"><br>
+            <span asp-validation-for="Hasta" style="color:red; font-size:10px"></span><br>
             <input type="submit" value="Enviar" class="submit">
         </form>
 
