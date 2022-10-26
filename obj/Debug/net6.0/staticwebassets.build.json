@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4JDpnsT2+Lp9Lz+LzuHjDNx97YpC/dbyAOn2ujqlat0=",
+  "Hash": "L4htAFlZjeVQ++69v2STR8CHtMFFKJ2ZNPPmsOzekfM=",
   "Source": "caserito_finder",
   "BasePath": "_content/caserito_finder",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "caserito_finder\\wwwroot",
       "Source": "caserito_finder",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\obj\\Debug\\net6.0\\scopedcss\\bundle\\caserito_finder.styles.css",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\obj\\Debug\\net6.0\\scopedcss\\bundle\\caserito_finder.styles.css",
       "SourceId": "caserito_finder",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "caserito_finder.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\obj\\Debug\\net6.0\\scopedcss\\bundle\\caserito_finder.styles.css"
+      "OriginalItemSpec": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\obj\\Debug\\net6.0\\scopedcss\\bundle\\caserito_finder.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\caserito_finder.bundle.scp.css",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\caserito_finder.bundle.scp.css",
       "SourceId": "caserito_finder",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "caserito_finder.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\caserito_finder.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\caserito_finder.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\css\\site.css",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\favicon.ico",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\fonts\\Adigiana-Toybox-Regular.ttf.woff",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\fonts\\Adigiana-Toybox-Regular.ttf.woff",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "fonts/Adigiana-Toybox-Regular.ttf.woff",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Adigiana-Toybox-Regular.ttf.woff"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\img\\caserito_finder_trans.png",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\img\\caserito_finder_trans.png",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "img/caserito_finder_trans.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\caserito_finder_trans.png"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\img\\idea.png",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\img\\idea.png",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "img/idea.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\idea.png"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\img\\logo-no-txt.png",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\img\\logo-no-txt.png",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "img/logo-no-txt.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo-no-txt.png"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\img\\logo-txt.png",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\img\\logo-txt.png",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "img/logo-txt.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo-txt.png"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\js\\site.js",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "caserito_finder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\wwwroot\\",
       "BasePath": "_content/caserito_finder",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

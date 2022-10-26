@@ -4,7 +4,7 @@ namespace caserito_finder.Controllers
 {
     public class UsuarioController : Controller
     {
-        public IActionResult Index()
+        /*public IActionResult Index()
         {
             return View();
         }
@@ -18,7 +18,7 @@ namespace caserito_finder.Controllers
             ViewData["telefono"] = telefono;
 
             return View();
-        }
+        }*/
     }
 
 

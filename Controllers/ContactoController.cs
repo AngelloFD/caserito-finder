@@ -4,7 +4,7 @@ namespace caserito_finder.Controllers
 {
     public class ContactoController : Controller
     {
-        [Route("Home/Contacto")]
+        /*[Route("Home/Contacto")]
         public IActionResult Index()
         {
             return View();
@@ -38,6 +38,6 @@ namespace caserito_finder.Controllers
         public IActionResult FormSend(string txt_nombre, string txt_dueño, string txt_direccion, string txt_email, string txt_telf)
         {
             return View();
-        }
+        }*/
     }
 }

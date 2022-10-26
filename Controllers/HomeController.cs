@@ -18,12 +18,6 @@ namespace caserito_finder.Controllers
             return View();
         }
 
-        [Route("Home/Contacto")]
-        public IActionResult Contacto()
-        {
-            return View();
-        }
-
         [Route("Home/Novedades")]
         public IActionResult Novedades()
         {

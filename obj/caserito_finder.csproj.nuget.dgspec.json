@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\caserito_finder.csproj": {}
+    "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\caserito_finder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\caserito_finder.csproj": {
+    "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\caserito_finder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\caserito_finder.csproj",
+        "projectUniqueName": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\caserito_finder.csproj",
         "projectName": "caserito_finder",
-        "projectPath": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\caserito_finder.csproj",
-        "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Familia\\Documents\\GitHub\\caserito-finder\\obj\\",
+        "projectPath": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\caserito_finder.csproj",
+        "packagesPath": "C:\\Users\\FERNANDO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FERNANDO\\Source\\Repos\\caserit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Familia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FERNANDO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,8 +65,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
